@@ -1,0 +1,7 @@
+{
+  "context": {
+    "domain": "jpm-derivitec-cdk-bucket-2",
+    "subdomain": ""
+  },
+  "app": "dotnet run -p aws-cdk/aws-cdk.csproj"
+}
